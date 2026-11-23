@@ -1,5 +1,4 @@
-## Hi there 👋
-Wellcome to My GitHub Profile
+## Hi there 👋Wellcome to My GitHub Profile
 I'm Madushani, a Surgical Intensive Care Nurse and a BSc IT Undergraduate student.
 About me;
 🔭 A dedicated and compassionate Surgical Intensive Care Nurse.
