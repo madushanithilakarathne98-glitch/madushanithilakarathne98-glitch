@@ -3,7 +3,6 @@ Wellcome to My GitHub Profile
 I'm a Surgical Intensive Care Nurse and a BSc IT Undergraduate student.
 <!--About me
 **madushanithilakarathne98-glitch/madushanithilakarathne98-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 🔭 A dedicated and compassionate Surgical Intensive Care Nurse.
 Experienced in Providing high-quality critical care to patients.
