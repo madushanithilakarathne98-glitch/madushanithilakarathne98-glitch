@@ -1,6 +1,6 @@
 ## Hi there 👋
 Wellcome to My GitHub Profile
-I'm a Surgical Intensive Care Nurse and a BSc IT Undergraduate student.
+I'm Madushani, a Surgical Intensive Care Nurse and a BSc IT Undergraduate student.
 About me;
 🔭 A dedicated and compassionate Surgical Intensive Care Nurse.
 Experienced in Providing high-quality critical care to patients.
