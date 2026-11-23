@@ -18,7 +18,7 @@ I'm the beginning of my IT journey, continuously learning, exploring and develop
 My goal is to become a skilled IT professional by continuously developing my technical knowledge, programming skills, and problem-solving abilities.
 I plan to establish myself as a professional within the IT field using my passion, work ethic and skill developed during my time as a nurse.
 ⚡ Fun fact: 
-I have a dog
+I have a dog and
 I love coffee and milk tea
 Hobbies; anime, movies, reading, solo travel
 
