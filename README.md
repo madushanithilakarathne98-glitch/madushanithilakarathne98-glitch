@@ -11,7 +11,7 @@ Informing Technology,
 Programming,
 Software development,
 Healthcare technology,
-Digital healthcare solutions,
+Digital healthcare solutions.
 My learning journey..
 I'm the beginning of my IT journey, continuously learning, exploring and developing my technical skills.
 My goal is to become a skilled IT professional by continuously developing my technical knowledge, programming skills, and problem-solving abilities.
